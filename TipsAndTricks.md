@@ -19,4 +19,5 @@ console.log(`My name is Manab
 - Shortcut for emoji = win + .
 - use '==' comparator to check the vales only and use '===' to check the values as well as type(no auto type conversion by js(coercion))
 - user prompt in browser take input as string
--
+- ternary operator can be used instead of if else statement
+- use ctrl + B to select same word every occurrence
