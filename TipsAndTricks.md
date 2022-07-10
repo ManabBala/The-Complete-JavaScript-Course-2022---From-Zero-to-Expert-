@@ -21,3 +21,5 @@ console.log(`My name is Manab
 - user prompt in browser take input as string
 - ternary operator can be used instead of if else statement
 - use ctrl + B to select same word every occurrence
+- can use console.warn() and console.error() for different color log.
+- also can use console.table() for unfolded object

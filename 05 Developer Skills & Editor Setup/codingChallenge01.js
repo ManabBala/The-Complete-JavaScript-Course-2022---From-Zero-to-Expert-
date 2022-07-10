@@ -1,6 +1,3 @@
-// do not clean this line
-"use strict";
-// do not clean this line
 /*
 Given an array of forecasted maximum temperatures, the thermometer displays a 
 string with the given temperatures. Example: [17, 21, 23] will print "... 17ºC in 1 
