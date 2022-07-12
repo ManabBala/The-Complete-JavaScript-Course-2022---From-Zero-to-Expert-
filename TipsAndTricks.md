@@ -23,3 +23,8 @@ console.log(`My name is Manab
 - use ctrl + B to select same word every occurrence
 - can use console.warn() and console.error() for different color log.
 - also can use console.table() for unfolded object
+- can declare multiple variables(or lets) in one line. this to resolve scoping problem. D
+
+```javaScript
+  let myName, myAge, myJob;
+```
