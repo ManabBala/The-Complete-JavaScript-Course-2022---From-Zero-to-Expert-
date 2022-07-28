@@ -386,6 +386,7 @@ console.log(age);
 
 - 'continue' skip the current iteration code
 - 'break' exit the entire loop
+- '' - blank space will work as 'pass' of python. so in js empty space means to action need to be done
 
 ```javaScript
 // want to print all the prime
