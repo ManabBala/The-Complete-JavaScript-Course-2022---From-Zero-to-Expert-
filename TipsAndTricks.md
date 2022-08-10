@@ -28,3 +28,13 @@ console.log(`My name is Manab
 ```javaScript
   let myName, myAge, myJob;
 ```
+
+- ++ operator return the previous value not the incremented one
+
+```javaScript
+// Prefixed ++ operator
+let a = 10;
+console.log(a++); // return 10
+console.log(a); // log incremented value 11
+console.log(++a); // return 11(correct way to increment in expression type equation)
+```
